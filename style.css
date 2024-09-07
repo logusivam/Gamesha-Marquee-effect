@@ -22,5 +22,5 @@ body
 img
 {
     width: 200px; 
-    margin: 5px;
+    margin: 5px; justify-content: space-around;
 }
