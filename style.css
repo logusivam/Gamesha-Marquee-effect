@@ -8,3 +8,11 @@ body
     background: url("https://images.pexels.com/photos/2397414/pexels-photo-2397414.jpeg?auto=compress&cs=tinysrgb&w=1200");
     color: white;
 }
+
+.ganesha
+{
+    width: 400px;
+    opacity: 0.3;
+    position: absolute;
+    left: 10px;
+}
